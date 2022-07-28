@@ -1,0 +1,97 @@
+﻿@model IEnumerable<EvaluationProduit.MVC.Models.ProduitModel>
+@using ModeleBase = EvaluationProduit.MVC.Models.ModeleBase;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Ajouter">Ajouter un nouveau Produit</a>
+</p>
+<p>
+    <h2>@ViewBag.Message</h2>
+</p>
+<p>
+    <button type="button" class="btn btn-danger">Cacher-Afficher</button>
+</p>
+
+<table class="table">
+    <thead>
+    <tr id="titre">
+        <th>
+            @Html.DisplayNameFor(model => model.Nom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MoyenneEvaluation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prix)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <partial name="_ListPartialView" model="item" />
+            <td>
+                @Html.DisplayFor(modelItem => item.MoyenneEvaluation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prix)
+            </td>
+            <td>
+                @Html.ActionLink("Modifier", "Modifier", new { id = item.Id })|
+                @Html.ActionLink("Détails", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Supprimer", "Supprimer", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    <tr>
+    </tr>
+
+    </tbody>
+</table>
+<div class="card-deck">
+    <div class="row">
+        @foreach (var produit in Model)
+        {
+            <!-- Display a div of col-sm-3 containing the card up to n number of times, ie in a loop -->
+            <div class="col-sm-3">
+                <div class="card">
+                    <img class="card-img-top" src="images/rating.png" alt="Card image cap">
+                    <div class="card-body">
+                        <h6 class="card-title">@produit.CategorieModel.Nom - @produit.Nom</h6>
+                        <p class="card-text"></p>
+                        <p class="card-text">@produit.Description</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">@produit.DateCreation</small>
+                        <small class="text-muted">- @produit.MoyenneEvaluation </small>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+    @section Scripts {
+        <script type="text/javascript">
+            $('button').on('click', function () {
+                $('tr').toggle();
+            });
+                //$("#titre").animate({
+                //    "fontSize": "32px",
+                //    "letterSpacing": "10px"
+                //}, 1200);
+        </script>
+    }
+
