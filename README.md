@@ -4,7 +4,7 @@ Ce dossier Repository est lié au cours `L'essentiel de ASP.NET pour .NET 6`. Le
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Dans cette formation qui s'adresse aux développeurs et architectes web, vous découvrirez l'environnement de création d'applications open source et multiplateforme Microsoft ASP.NET Core .NET 6. Après avoir abordé les principes de base, vous plongerez au cœur du sujet avec la conception d'applications web et le développement de modèles, de vues et de contrôleurs MVC. Vous apprendrez à tirer parti des layouts, du CSS, de JavaScript ainsi que d'Entity Framework pour vous connecter à vos bases de données. Avant de conclure sur l'implémentation d'une API web, vous ferez un tour d'horizon détaillé des procédures de test, d'hébergement, de déploiement et de sécurité.
 
 ## Instructions
 
