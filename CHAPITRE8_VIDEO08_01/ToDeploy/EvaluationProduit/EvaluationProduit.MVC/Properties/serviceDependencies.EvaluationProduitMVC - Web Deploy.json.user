@@ -1,0 +1,30 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "EvaluationProduitMVC.subscriptionId": {
+      "Name": "EvaluationProduitMVC.subscriptionId",
+      "Type": "subscription",
+      "Value": "4b387df9-d76c-4547-aee0-08c6543f163b"
+    },
+    "EvaluationProduitMVC.resourceGroupLocation": {
+      "Name": "EvaluationProduitMVC.resourceGroupLocation",
+      "Type": null,
+      "Value": "centralus"
+    },
+    "subscriptionId": {
+      "Name": "subscriptionId",
+      "Type": "subscription",
+      "Value": "4b387df9-d76c-4547-aee0-08c6543f163b"
+    },
+    "EvaluationProduitMVC.resourceName": {
+      "Name": "EvaluationProduitMVC.resourceName",
+      "Type": null,
+      "Value": "EvaluationProduitMVC"
+    },
+    "EvaluationProduitMVC.resourceGroupName": {
+      "Name": "EvaluationProduitMVC.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ProduitRG"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+﻿@model IEnumerable<EvaluationProduit.MVC.Models.ProduitModel>
+@using ModeleBase = EvaluationProduit.MVC.Models.ModeleBase;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Ajouter">Ajouter un nouveau Produit</a>
+</p>
+<p>
+    <h2>@ViewBag.Message</h2> 
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateCreation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MoyenneEvaluation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prix)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*@{
+                    await Html.RenderPartialAsync("_ListPartialView", item);
+                }*@
+            @*Parmi les options HTML Helper utilisées pour le rendu d’une vue partielle*@
+            
+            @{await Html.RenderPartialAsync("_ListPartialView", item);}
+
+            @*@await Html.PartialAsync("_ListPartialView", item);
+                @{ Html.RenderPartial("_ListPartialView", item);}
+                @Html.Partial("_ListPartialView", item)*@
+
+            @*<partial name="_ListPartialView" model="item" />*@
+            <td>
+                @Html.DisplayFor(modelItem => item.MoyenneEvaluation)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prix)
+            </td>
+            <td>
+                @Html.ActionLink("Modifier", "Modifier", new { id = item.Id })|
+                @Html.ActionLink("Détails", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Supprimer", "Supprimer", new { id = item.Id })
+            </td>
+        </tr>
+    }
+    <tr>
+        
+    </tr>
+       
+    </tbody>
+</table>
+<h3>Liste des catégories</h3>
+<table class="table">
+    @{
+        var listCategories = Model.Select(c => c.CategorieModel).Distinct().ToList();
+    }
+    @foreach (var item in listCategories)
+    {
+        <tr>
+            @{ await Html.RenderPartialAsync("_ListPartialView", item); }
+        </tr>
+    }
+</table>
+
