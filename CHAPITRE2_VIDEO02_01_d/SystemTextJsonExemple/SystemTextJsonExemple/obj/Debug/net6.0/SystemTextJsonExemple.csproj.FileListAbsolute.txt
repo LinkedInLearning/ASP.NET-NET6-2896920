@@ -1,0 +1,15 @@
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\SystemTextJsonExemple.exe
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\SystemTextJsonExemple.deps.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\SystemTextJsonExemple.runtimeconfig.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\SystemTextJsonExemple.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\SystemTextJsonExemple.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.csproj.AssemblyReference.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.AssemblyInfoInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.AssemblyInfo.cs
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.csproj.CoreCompileInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\refint\SystemTextJsonExemple.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\SystemTextJsonExemple.genruntimeconfig.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\ref\SystemTextJsonExemple.dll

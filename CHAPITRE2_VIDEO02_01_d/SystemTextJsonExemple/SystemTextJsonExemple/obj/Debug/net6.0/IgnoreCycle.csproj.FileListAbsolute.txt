@@ -1,0 +1,15 @@
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\IgnoreCycle.exe
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\IgnoreCycle.deps.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\IgnoreCycle.runtimeconfig.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\IgnoreCycle.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\bin\Debug\net6.0\IgnoreCycle.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.csproj.AssemblyReference.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.AssemblyInfoInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.AssemblyInfo.cs
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.csproj.CoreCompileInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\refint\IgnoreCycle.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\IgnoreCycle.genruntimeconfig.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\SystemTextJsonExemple\obj\Debug\net6.0\ref\IgnoreCycle.dll
