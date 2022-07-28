@@ -1,0 +1,40 @@
+﻿@model EvaluationProduit.MVC.Models.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+
+<h4>RegisterViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Register">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserHandle" class="control-label"></label>
+                <input asp-for="UserHandle" class="form-control" />
+                <span asp-validation-for="UserHandle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Utilisateur" class="control-label"></label>
+                <input asp-for="Utilisateur" class="form-control" />
+                <span asp-validation-for="Utilisateur" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MotDePasse" class="control-label"></label>
+                <input asp-for="MotDePasse" class="form-control" />
+                <span asp-validation-for="MotDePasse" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

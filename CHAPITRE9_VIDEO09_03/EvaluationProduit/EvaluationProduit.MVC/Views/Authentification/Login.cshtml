@@ -1,0 +1,20 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model EvaluationProduit.MVC.Models.LoginViewModel
+<h2>Login</h2>
+<div>
+    <form method="post" asp-action="Login">
+        <div>
+            <label asp-for="Utilisateur">Username</label>
+            <input asp-for="Utilisateur" />
+        </div>
+        <div>
+            <label asp-for="MotDePasse">Password</label>
+            <input asp-for="MotDePasse" />
+        </div>
+        <input type="submit" value="Login" />
+    </form>
+</div>
