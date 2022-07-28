@@ -1,0 +1,32 @@
+using EvaluationProduit.MVC.CoreDI;
+using EvaluationProduit.MVC.Services;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+builder.Services.AjouterProduitServices();
+//builder.Services.AddSingleton<ICategorieService, CategorieService>();
+//builder.Services.AddSingleton<IProduitService, ProduitService>();
+//builder.Services.AddScoped<IProduitService, ProduitService>();
+//builder.Services.AddTransient<IProduitService, ProduitService>();
+
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+}
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.Run();
