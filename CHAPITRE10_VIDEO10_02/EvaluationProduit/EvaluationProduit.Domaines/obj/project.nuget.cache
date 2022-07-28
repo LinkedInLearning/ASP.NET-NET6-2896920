@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Sp3/BAEMgz+IK0GxrAyvP2ViQTi59FNML+U9E6H0LkX5IZSRbPvhfkCTYNdG4RQYtQGnBqmw5vpGJ/+wSxn/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\didou\\Documents\\LinkedinLearningExemple\\Chapitre10\\EvaluationProduit\\EvaluationProduit.Domaines\\EvaluationProduit.Domaines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\didou\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

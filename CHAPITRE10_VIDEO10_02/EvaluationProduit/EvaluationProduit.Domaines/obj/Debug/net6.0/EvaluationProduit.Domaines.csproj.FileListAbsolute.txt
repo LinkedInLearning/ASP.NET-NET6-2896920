@@ -1,0 +1,12 @@
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\bin\Debug\net6.0\EvaluationProduit.Domaines.deps.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\bin\Debug\net6.0\EvaluationProduit.Domaines.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\bin\Debug\net6.0\EvaluationProduit.Domaines.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.csproj.AssemblyReference.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.AssemblyInfoInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.AssemblyInfo.cs
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.csproj.CoreCompileInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\refint\EvaluationProduit.Domaines.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\EvaluationProduit.Domaines.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre10\EvaluationProduit\EvaluationProduit.Domaines\obj\Debug\net6.0\ref\EvaluationProduit.Domaines.dll
