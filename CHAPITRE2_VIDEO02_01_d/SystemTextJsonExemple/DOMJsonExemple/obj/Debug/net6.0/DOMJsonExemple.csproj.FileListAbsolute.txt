@@ -1,0 +1,15 @@
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\bin\Debug\net6.0\DOMJsonExemple.exe
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\bin\Debug\net6.0\DOMJsonExemple.deps.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\bin\Debug\net6.0\DOMJsonExemple.runtimeconfig.json
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\bin\Debug\net6.0\DOMJsonExemple.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\bin\Debug\net6.0\DOMJsonExemple.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.csproj.AssemblyReference.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.AssemblyInfoInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.AssemblyInfo.cs
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.csproj.CoreCompileInputs.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\refint\DOMJsonExemple.dll
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.pdb
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\DOMJsonExemple.genruntimeconfig.cache
+C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre2\Avant\SystemTextJsonExemple\DOMJsonExemple\obj\Debug\net6.0\ref\DOMJsonExemple.dll
