@@ -12,7 +12,8 @@ Ce dossier Repository a des branches pour chacune des vidéos du cours. Vous pou
 
 ## Branches
 
-Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin.  
+Les branches sont structurées de manière à correspondre aux vidéos du cours. La convention de nommage est : `CHAPITRE#_VIDEO#`. Par exemple, la branche nommée`02_03` correspond au second chapitre, et à la troisième vidéo de ce chapitre. Certaines branches ont un état de départ et de fin. 
+
 La branche `02_03_d` correspond au code du début de la vidéo.  
 La branche `02_03_f` correspond au code à la fin de la vidéo.  
 La branche master correspond au code à la fin de la formation. 
@@ -24,16 +25,12 @@ La branche master correspond au code à la fin de la formation.
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
 3. [Instructions spécifiques au cours] 
 
-
 ### Formateur
 
 **Hamida Rebai** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
-[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/hamida-rebai?
-
-[1]: # (End of FR-Instruction ###############################################################################################)
+[lil-course-url]: 
+[lil-thumbnail-url]: 
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/hamida-rebai
