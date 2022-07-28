@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EvaluationProduit.MVC
+build_property.RootNamespace = EvaluationProduit.MVC
+build_property.ProjectDir = C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre3\Apres\EvaluationProduit\EvaluationProduit.MVC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\didou\Documents\LinkedinLearningExemple\Chapitre3\Apres\EvaluationProduit\EvaluationProduit.MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Produit/Ajouter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxBam91dGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Produit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Produit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Produit/Modifier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxNb2RpZmllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Produit/Supprimer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVpdFxTdXBwcmltZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/didou/Documents/LinkedinLearningExemple/Chapitre3/Apres/EvaluationProduit/EvaluationProduit.MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wpsozpvxjm
