@@ -8,10 +8,9 @@ Dans cette formation qui s'adresse aux développeurs et architectes web, vous d�
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - Visual Studio 2022 ou bien la dernière version de visual Studio Code, un outil Git pour récupérer les branches. 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-
+Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
+   - Visual Studio 2022 ou bien la dernière version de visual Studio Code, un outil Git pour récupérer les branches
+   - Cloner ce dossier repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
 
 ### Formateur
 
