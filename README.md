@@ -20,4 +20,4 @@ Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: [https://www.linkedin.com/learning/building-a-graphql-project-with-react-js](https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6)
-[lil-thumbnail-url]: ![image](https://user-images.githubusercontent.com/71371373/183607339-7ab744f1-559f-432b-8ed1-bb5a150aa80e.png)
+[lil-thumbnail-url]: [![image](https://user-images.githubusercontent.com/71371373/183607339-7ab744f1-559f-432b-8ed1-bb5a150aa80e.png)](https://media-exp1.licdn.com/dms/image/C4E0DAQHKBFCuyNY5NA/learning-public-crop_675_1200/0/1659356954900?e=1660640400&v=beta&t=YuavQ9ZK-CKFup6CZzRJ0ouPoudxY3b69oEOWSDTZu8)
