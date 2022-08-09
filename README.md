@@ -18,5 +18,5 @@ Pour utiliser ces fichiers d’exercice, vous avez besoin de :
 Retrouvez mes autres formations sur [LinkedIn Learning](https://www.linkedin.com/learning/instructors/hamida-rebai).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: (https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6)
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6
 [lil-thumbnail-url]: ![image](https://user-images.githubusercontent.com/71371373/183631010-5997f5eb-ef8c-4a73-b204-564ed9295fd8.png)
