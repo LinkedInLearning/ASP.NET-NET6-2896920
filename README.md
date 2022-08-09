@@ -16,7 +16,7 @@ Pour utiliser ces fichiers d’exercice, vous avez besoin de :
 
 **Hamida Rebai** 
 
-Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+Retrouvez mes autres formations sur [LinkedIn Learning] (https://www.linkedin.com/learning/instructors/hamida-rebai)
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: [https://www.linkedin.com/learning/building-a-graphql-project-with-react-js](https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6)
