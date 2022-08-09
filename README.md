@@ -18,6 +18,6 @@ Pour utiliser ces fichiers d’exercice, vous avez besoin de :
 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6
-[lil-thumbnail-url]: 
-[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/hamida-rebai
+[0]: # (Replace these placeholder URLs with actual course URLs)
+[lil-course-url]: [https://www.linkedin.com/learning/building-a-graphql-project-with-react-js](https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6)
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
