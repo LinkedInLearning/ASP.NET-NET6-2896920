@@ -18,6 +18,6 @@ Pour utiliser ces fichiers d’exercice, vous avez besoin de :
 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[lil-course-url]: 
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-6/bienvenue-dans-l-essentiel-d-asp-dot-net-core-pour-dot-net-6
 [lil-thumbnail-url]: 
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/hamida-rebai
