@@ -5,6 +5,8 @@ Ce dossier Repository est lié au cours `L'essentiel de ASP.NET pour .NET 6`. Le
 
 Dans cette formation qui s'adresse aux développeurs et architectes web, vous découvrirez l'environnement de création d'applications open source et multiplateforme Microsoft ASP.NET Core .NET 6. Après avoir abordé les principes de base, vous plongerez au cœur du sujet avec la conception d'applications web et le développement de modèles, de vues et de contrôleurs MVC. Vous apprendrez à tirer parti des layouts, du CSS, de JavaScript ainsi que d'Entity Framework pour vous connecter à vos bases de données. Avant de conclure sur l'implémentation d'une API web, vous ferez un tour d'horizon détaillé des procédures de test, d'hébergement, de déploiement et de sécurité.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Installation
 
 Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
